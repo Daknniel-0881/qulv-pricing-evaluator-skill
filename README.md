@@ -1,11 +1,22 @@
 # qulv-pricing-evaluator-skill
 
-企业 AI 转型定价决策 Skill，帮助咨询、培训和工具落地项目更清晰地评估报价与交付边界。
+企业AI转型定价决策引擎：基于Wayne白皮书的B端AI咨询定价体系，含TFSM筛选+VST标准+TAA心腹+双层增效模型。适配Claude Code AI咨询业务全流程定价与报价。
 
-## 关于本仓库与曲率企业 AI 服务
+---
 
-本仓库开源分享 **qulv-pricing-evaluator-skill**：企业 AI 转型定价决策 Skill，帮助咨询、培训和工具落地项目更清晰地评估报价与交付边界。曲率提供企业 AI 培训、企业 AI 转型咨询、落地工具搭建、AI 工具定制及 Skill 定制、企业 AI 转型全程陪跑，帮助团队把 AI 从演示样例落到真实业务流程中。
+## 关于作者
 
-感兴趣可扫码添加微信：
+这个开源工具来自我们的企业 AI 服务实践——
 
-![曲率企业 AI 服务海报](assets/qulv/qulv-ai-business-poster-readme.png)
+我们核心提供**企业 AI 服务**，具体业务包括：
+
+1. **企业 AI 培训**
+2. **企业 AI 转型咨询**
+3. **落地工具搭建、AI 工具定制及 Skill 定制**
+4. **企业 AI 转型全程陪跑**
+
+感兴趣可扫码添加微信 👇
+
+![扫码添加微信](./assets/poster.png)
+
+---
